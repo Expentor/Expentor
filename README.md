@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing and data science
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me Discord: Expentor#1111
+- 📫 How to reach me Discord: Expentor
 
 <!---
 Expentor/Expentor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
